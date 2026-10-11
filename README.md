@@ -1,7 +1,11 @@
 # Hi there 👋, I'm Md. Sibly Sadik Shimul
 ![Header Banner](https://raw.githubusercontent.com/Shimulcse-stack/Shi_Mul/main/banner.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=100&color=4D38B1&center=true&vCenter=true&random=true&width=1000&lines=%F0%9F%94%A5+A+Passionate+Web+Developer+%F0%9F%94%A5;%F0%9F%94%A5+2.1%2B+Years+of+Experience+%F0%9F%94%A5;%F0%9F%94%A5+Full-Stack+%26+Backend+Enthusiast+%F0%9F%94%A5)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sibly-sadik&label=Profile%20views&color=0e75b6&style=flat" alt="sibly-sadik" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibly-sadik" alt="sibly-sadik" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🔭 I am currently working as a **Web Developer** with **2.1 years of experience** at **Systema**[cite: 2].
 - 🌱 I am currently studying for my **BSc in Computer Science & Engineering** at **Uttara University** (Enrolled, Year: 2027)[cite: 3].
 - 🏫 My educational background also includes HSC from **City Residential Model College** (Year: 2022)[cite: 3].
