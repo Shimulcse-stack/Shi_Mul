@@ -1,5 +1,8 @@
-# Hi there 👋, I'm Md. Sibly Sadik Shimul[cite: 2]
+# Hi there 👋, I'm Md. Sibly Sadik Shimul
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Hriday-paul/Hriday-paul/main/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif "San Juan Mountains")
 
+https://github.com/Shimulcse-stack/Shi_Mul/edit/main/README.md
+![Header Banner](https://raw.githubusercontent.com/Shimulcse-stack/Shi_Mul/main/banner.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=100&color=4D38B1&center=true&vCenter=true&random=true&width=1000&lines=%F0%9F%94%A5+A+Passionate+Web+Developer+%F0%9F%94%A5;%F0%9F%94%A5+2.1%2B+Years+of+Experience+%F0%9F%94%A5;%F0%9F%94%A5+Full-Stack+%26+Backend+Enthusiast+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 - 🔭 I am currently working as a **Web Developer** with **2.1 years of experience** at **Systema**[cite: 2].
